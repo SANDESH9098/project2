@@ -1,14 +1,4 @@
-# /// script
-# dependencies = [
-#   "requests",
-#   "seaborn",
-#   "matplotlib",
-#   "scikit-learn",
-#   "scipy",
-#   "pandas",
-#   "numpy"
-# ]
-# ///
+
 
 import requests
 import json
